@@ -1,0 +1,7 @@
+Branching command is the following
+
+git branch <name>   # to create a branch
+
+git branch  # to see the lists
+
+git checkout branch <name>  # to change the repository branch
